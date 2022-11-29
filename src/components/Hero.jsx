@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='mb-[10px] flex justify-center items-center h-screen custom-img bg-cover bg-fixed bg-center'>
+    <div className='  flex justify-center items-center h-screen custom-img bg-cover bg-fixed bg-center'>
       {/* overlay */}
       <div className="bg-slate-900/70 absolute w-full h-full z-[2] " /> 
       <div className='z-[2] text-white'>
